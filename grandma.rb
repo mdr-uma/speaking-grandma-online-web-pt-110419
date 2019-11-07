@@ -14,9 +14,9 @@
 speak_to_grandma = "Whatever you say to grandma, she should respond with
 HUH?! SPEAK UP, SONNY!
 unless you shout it (type in all capitals)."
-if speak_to_grandma == "Hi Nana, how are you?"
-  puts "HUH?! SPEAK UP, SONNY!"
-#  puts "I LOVE YOU TOO PUMPKIN!
+if speak_to_grandma == "I LOVE YOU GRANDMA!"
+  puts "I LOVE YOU TOO PUMPKIN!"
+#  puts "!
 #
 # elsif speak_to_grandma ==
 #
