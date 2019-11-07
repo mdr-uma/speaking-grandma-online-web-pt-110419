@@ -11,10 +11,12 @@
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
-speak_to_grandma
-if "Hi Nana, how are you?"
+speak_to_grandma = "Whatever you say to grandma, she should respond with
+HUH?! SPEAK UP, SONNY!
+unless you shout it (type in all capitals)."
+if speak_to_grandma == "Hi Nana, how are you?"
   puts "HUH?! SPEAK UP, SONNY!"
-#   puts "I LOVE YOU TOO PUMPKIN!
+#  puts "I LOVE YOU TOO PUMPKIN!
 #
 # elsif speak_to_grandma ==
 #
